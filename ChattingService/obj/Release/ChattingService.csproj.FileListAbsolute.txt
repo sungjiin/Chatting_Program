@@ -1,0 +1,9 @@
+C:\Users\Ka\Desktop\모던프로젝트\ChattingService\ChattingService\ChattingService\bin\Release\ChattingService.exe
+C:\Users\Ka\Desktop\모던프로젝트\ChattingService\ChattingService\ChattingService\bin\Release\ChattingService.pdb
+C:\Users\Ka\Desktop\모던프로젝트\ChattingService\ChattingService\ChattingService\obj\Release\ChattingService.csprojAssemblyReference.cache
+C:\Users\Ka\Desktop\모던프로젝트\ChattingService\ChattingService\ChattingService\obj\Release\ChattingService.MainForm.resources
+C:\Users\Ka\Desktop\모던프로젝트\ChattingService\ChattingService\ChattingService\obj\Release\ChattingService.Properties.Resources.resources
+C:\Users\Ka\Desktop\모던프로젝트\ChattingService\ChattingService\ChattingService\obj\Release\ChattingService.csproj.GenerateResource.cache
+C:\Users\Ka\Desktop\모던프로젝트\ChattingService\ChattingService\ChattingService\obj\Release\ChattingService.csproj.CoreCompileInputs.cache
+C:\Users\Ka\Desktop\모던프로젝트\ChattingService\ChattingService\ChattingService\obj\Release\ChattingService.exe
+C:\Users\Ka\Desktop\모던프로젝트\ChattingService\ChattingService\ChattingService\obj\Release\ChattingService.pdb

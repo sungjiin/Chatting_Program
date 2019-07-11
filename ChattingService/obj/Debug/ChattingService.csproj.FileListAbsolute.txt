@@ -1,0 +1,17 @@
+C:\Users\Ka\Desktop\chattingservice-thx4alice\ChattingService\ChattingService\bin\Debug\ChattingService.exe
+C:\Users\Ka\Desktop\chattingservice-thx4alice\ChattingService\ChattingService\bin\Debug\ChattingService.pdb
+C:\Users\Ka\Desktop\chattingservice-thx4alice\ChattingService\ChattingService\obj\Debug\ChattingService.csprojAssemblyReference.cache
+C:\Users\Ka\Desktop\chattingservice-thx4alice\ChattingService\ChattingService\obj\Debug\ChattingService.MainForm.resources
+C:\Users\Ka\Desktop\chattingservice-thx4alice\ChattingService\ChattingService\obj\Debug\ChattingService.Properties.Resources.resources
+C:\Users\Ka\Desktop\chattingservice-thx4alice\ChattingService\ChattingService\obj\Debug\ChattingService.csproj.GenerateResource.cache
+C:\Users\Ka\Desktop\chattingservice-thx4alice\ChattingService\ChattingService\obj\Debug\ChattingService.csproj.CoreCompileInputs.cache
+C:\Users\Ka\Desktop\chattingservice-thx4alice\ChattingService\ChattingService\obj\Debug\ChattingService.exe
+C:\Users\Ka\Desktop\chattingservice-thx4alice\ChattingService\ChattingService\obj\Debug\ChattingService.pdb
+C:\Users\Ka\Desktop\모던프로젝트\ChattingService\ChattingService\ChattingService\bin\Debug\ChattingService.exe
+C:\Users\Ka\Desktop\모던프로젝트\ChattingService\ChattingService\ChattingService\bin\Debug\ChattingService.pdb
+C:\Users\Ka\Desktop\모던프로젝트\ChattingService\ChattingService\ChattingService\obj\Debug\ChattingService.MainForm.resources
+C:\Users\Ka\Desktop\모던프로젝트\ChattingService\ChattingService\ChattingService\obj\Debug\ChattingService.Properties.Resources.resources
+C:\Users\Ka\Desktop\모던프로젝트\ChattingService\ChattingService\ChattingService\obj\Debug\ChattingService.csproj.GenerateResource.cache
+C:\Users\Ka\Desktop\모던프로젝트\ChattingService\ChattingService\ChattingService\obj\Debug\ChattingService.csproj.CoreCompileInputs.cache
+C:\Users\Ka\Desktop\모던프로젝트\ChattingService\ChattingService\ChattingService\obj\Debug\ChattingService.exe
+C:\Users\Ka\Desktop\모던프로젝트\ChattingService\ChattingService\ChattingService\obj\Debug\ChattingService.pdb
